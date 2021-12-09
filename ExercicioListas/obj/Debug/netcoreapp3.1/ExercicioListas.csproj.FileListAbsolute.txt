@@ -1,0 +1,12 @@
+D:\Daniel\Area de trabalho\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.exe
+D:\Daniel\Area de trabalho\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.deps.json
+D:\Daniel\Area de trabalho\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.runtimeconfig.json
+D:\Daniel\Area de trabalho\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.runtimeconfig.dev.json
+D:\Daniel\Area de trabalho\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.dll
+D:\Daniel\Area de trabalho\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.pdb
+D:\Daniel\Area de trabalho\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.AssemblyInfoInputs.cache
+D:\Daniel\Area de trabalho\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.AssemblyInfo.cs
+D:\Daniel\Area de trabalho\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.csproj.CoreCompileInputs.cache
+D:\Daniel\Area de trabalho\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.dll
+D:\Daniel\Area de trabalho\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.pdb
+D:\Daniel\Area de trabalho\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.genruntimeconfig.cache
